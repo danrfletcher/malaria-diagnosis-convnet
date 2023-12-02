@@ -1,6 +1,6 @@
 # Identifying Parisitized Malaria Cells with the LeNet Model (Convolutional Neural Networks)
 ___
-![My Skills](https://skillicons.dev/icons?i=py,tensorflow,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=py,tensorflow,git,github)
 
 **This practice project focuses on building, training & optimizing a convolutional neural network with the LeNet model architecture in order to find malaria infected cells using microscopic images.** The LeNet model is a simple convolutional neural network architecture originally developed in 1989. We will use this model architecture along with the ready to use TensorFlow datasets malaria dataset in order to make a binary prediction as to whether a particular cell is infected based on a threshold value of 0.5 where a prediction < 0.5 implies that the cell is not infected & vice versa.
 
